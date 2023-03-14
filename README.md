@@ -13,3 +13,6 @@ Challenge referente ao teste técnico LIMA
   
 
 ![google](https://user-images.githubusercontent.com/127316336/225005518-40421052-efa8-4d88-89a1-abbbdc60b6d7.PNG)
+
+
+Obs: Codigo executa localmente...
